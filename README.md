@@ -1,5 +1,8 @@
 # The basic purpose of this project is understanding in depth how does NLP and specially Sentiment analysis works.
+
 The project include 9 steps to complete the task
+
+
     # 1- Data Visualization to gain insights of data using:
                 - Matplotlib
                 - Seaborn
